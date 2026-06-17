@@ -16,9 +16,9 @@
 <h2>🔐 Authentication</h2>
 
 <p align="center">
-  <img src="Screenshot/Splashing%20Screen.png" width="280" />
-  <img src="Screenshot/Sign%20In%20.png" width="280" />
-  <img src="Screenshot/Register.png" width="280" />
+  <img src="Screenshot/Splashing%20Screen.png" width="220" />
+  <img src="Screenshot/Sign%20In%20.png" width="220" />
+  <img src="Screenshot/Register.png" width="220" />
 </p>
 
 <p align="center">
