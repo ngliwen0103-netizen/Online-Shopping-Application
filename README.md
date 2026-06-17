@@ -15,22 +15,24 @@
 
 <h3>🔐 Authentication</h3>
 
-<p align="center">
-  <span>
-    <img src="Screenshot/Splashing%20Screen.png" width="220"><br>
-    <b>Splash Screen</b>
-  </span>
+<table border="0">
+<tr>
+<td align="center" border="0">
+<img src="Screenshot/Splashing%20Screen.png" width="220"><br>
+<b>Splash Screen</b>
+</td>
 
-  <span>
-    <img src="Screenshot/Sign%20In%20.png" width="220"><br>
-    <b>Sign In</b>
-  </span>
+<td align="center" border="0">
+<img src="Screenshot/Sign%20In%20.png" width="220"><br>
+<b>Sign In</b>
+</td>
 
-  <span>
-    <img src="Screenshot/Register.png" width="220"><br>
-    <b>Register</b>
-  </span>
-</p>
+<td align="center" border="0">
+<img src="Screenshot/Register.png" width="220"><br>
+<b>Register</b>
+</td>
+</tr>
+</table>
 ---
 
 ### 🏠 Home & Navigation
