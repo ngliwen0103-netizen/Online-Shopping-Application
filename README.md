@@ -10,4 +10,4 @@ A React Native Mobile Shopping Application
 
 ## Screenshots
 ## Splashing Screen 
-![Splashing Screen](Screenshot/Splashing Screen.png)
+![Splashing Screen](Screenshot/Splashing%20Screen.png)
