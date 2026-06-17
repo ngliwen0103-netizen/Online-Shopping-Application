@@ -15,96 +15,75 @@
 
 <h3>🔐 Authentication</h3>
 
-<table>
-<tr>
-<td align="center">
-<img src="Screenshot/Splashing%20Screen.png" width="250"><br>
-<sub><b>Splash Screen</b></sub>
-</td>
+<p align="center">
+  <img src="Screenshot/Splashing%20Screen.png" width="250">
+  <img src="Screenshot/Sign%20In%20.png" width="250">
+  <img src="Screenshot/Register.png" width="250">
+</p>
 
-<td align="center">
-<img src="Screenshot/Sign%20In%20.png" width="250"><br>
-<sub><b>Sign In</b></sub>
-</td>
-
-<td align="center">
-<img src="Screenshot/Register.png" width="250"><br>
-<sub><b>Register</b></sub>
-</td>
-</tr>
-</table>
+<p align="center">
+  <sub><b>Splash Screen</b></sub>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <sub><b>Sign In</b></sub>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <sub><b>Register</b></sub>
+</p>
 
 ---
 
 <h3>🏠 Home & Navigation</h3>
 
-<table>
-<tr>
-<td align="center">
-<img src="Screenshot/Home%20Screen%20Before%20Sign%20In.png" width="250"><br>
-<sub><b>Home Screen (Guest)</b></sub>
-</td>
+<p align="center">
+  <img src="Screenshot/Home%20Screen%20Before%20Sign%20In.png" width="250">
+  <img src="Screenshot/Home%20Screen%20After%20Sign%20In.png" width="250">
+  <img src="Screenshot/Menu.png" width="250">
+</p>
 
-<td align="center">
-<img src="Screenshot/Home%20Screen%20After%20Sign%20In.png" width="250"><br>
-<sub><b>Home Screen (User)</b></sub>
-</td>
-
-<td align="center">
-<img src="Screenshot/Menu.png" width="250"><br>
-<sub><b>Navigation Menu</b></sub>
-</td>
-</tr>
-</table>
+<p align="center">
+  <sub><b>Home Screen (Guest)</b></sub>
+  &nbsp;&nbsp;&nbsp;
+  <sub><b>Home Screen (User)</b></sub>
+  &nbsp;&nbsp;&nbsp;
+  <sub><b>Navigation Menu</b></sub>
+</p>
 
 ---
 
 <h3>🛍 Shopping Experience</h3>
 
-<table>
-<tr>
-<td align="center">
-<img src="Screenshot/Product%20Details.png" width="250"><br>
-<sub><b>Product Details</b></sub>
-</td>
+<p align="center">
+  <img src="Screenshot/Product%20Details.png" width="250">
+  <img src="Screenshot/Best%20Seller.png" width="250">
+  <img src="Screenshot/Cart.png" width="250">
+</p>
 
-<td align="center">
-<img src="Screenshot/Best%20Seller.png" width="250"><br>
-<sub><b>Best Sellers</b></sub>
-</td>
+<p align="center">
+  <sub><b>Product Details</b></sub>
+  &nbsp;&nbsp;&nbsp;
+  <sub><b>Best Sellers</b></sub>
+  &nbsp;&nbsp;&nbsp;
+  <sub><b>Shopping Cart</b></sub>
+</p>
 
-<td align="center">
-<img src="Screenshot/Cart.png" width="250"><br>
-<sub><b>Shopping Cart</b></sub>
-</td>
-</tr>
+<p align="center">
+  <img src="Screenshot/Checkout.png" width="250">
+</p>
 
-<tr>
-<td align="center">
-<img src="Screenshot/Checkout.png" width="250"><br>
-<sub><b>Checkout</b></sub>
-</td>
-<td></td>
-<td></td>
-</tr>
-</table>
+<p align="center">
+  <sub><b>Checkout</b></sub>
+</p>
 
 ---
 
 <h3>👤 User Account & Reviews</h3>
 
-<table>
-<tr>
-<td align="center">
-<img src="Screenshot/Profile.png" width="250"><br>
-<sub><b>My Account</b></sub>
-</td>
+<p align="center">
+  <img src="Screenshot/Profile.png" width="250">
+  <img src="Screenshot/Rate.png" width="250">
+</p>
 
-<td align="center">
-<img src="Screenshot/Rate.png" width="250"><br>
-<sub><b>Rate Product</b></sub>
-</td>
-
-<td></td>
-</tr>
-</table>
+<p align="center">
+  <sub><b>My Account</b></sub>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <sub><b>Rate Product</b></sub>
+</p>
