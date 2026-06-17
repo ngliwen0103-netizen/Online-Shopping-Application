@@ -11,15 +11,74 @@
 - User-friendly and responsive mobile interface
 - Persistence of local data 
 
-## Application Showcase
-### Authentication
-### Splash Screen 
-![Splashing Screen](Screenshot/Splashing%20Screen.png)
+## 📸 Application Showcase
 
-### Sign In 
-![Splashing Screen](Screenshot/SignIn.png)
+### 🔐 Authentication
 
-### Register 
-![Splashing Screen](Screenshot/Register.png)
+<p align="center">
+  <img src="Screenshot/Splashing%20Screen.png" width="220">
+  <img src="Screenshot/Sign%20In%20.png" width="220">
+  <img src="Screenshot/Register.png" width="220">
+</p>
 
-###
+<p align="center">
+  <b>Splash Screen</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Sign In</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Register</b>
+</p>
+
+---
+
+### 🏠 Home & Navigation
+
+<p align="center">
+  <img src="Screenshot/Home%20Screen%20Before%20Sign%20In.png" width="220">
+  <img src="Screenshot/Home%20Screen%20After%20Sign%20In.png" width="220">
+  <img src="Screenshot/Menu.png" width="220">
+</p>
+
+<p align="center">
+  <b>Home Screen (Guest)</b> &nbsp;&nbsp;
+  <b>Home Screen (User)</b> &nbsp;&nbsp;
+  <b>Navigation Menu</b>
+</p>
+
+---
+
+### 🛍 Shopping Experience
+
+<p align="center">
+  <img src="Screenshot/Product%20Details.png" width="220">
+  <img src="Screenshot/Best%20Seller.png" width="220">
+  <img src="Screenshot/Cart.png" width="220">
+</p>
+
+<p align="center">
+  <b>Product Details</b> &nbsp;&nbsp;
+  <b>Best Sellers</b> &nbsp;&nbsp;
+  <b>Shopping Cart</b>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="Screenshot/Checkout.png" width="220">
+</p>
+
+<p align="center">
+  <b>Checkout</b>
+</p>
+
+---
+
+### 👤 User Account & Reviews
+
+<p align="center">
+  <img src="Screenshot/Profile.png" width="220">
+  <img src="Screenshot/Rate.png" width="220">
+</p>
+
+<p align="center">
+  <b>My Account</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Rate Product</b>
+</p>
