@@ -16,9 +16,9 @@
 <h3>🔐 Authentication</h3>
 
 <p align="center">
-  <img src="Screenshot/Splashing%20Screen.png" width="250">
-  <img src="Screenshot/Sign%20In%20.png" width="250">
-  <img src="Screenshot/Register.png" width="250">
+  <img src="Screenshot/Splashing%20Screen.png" width="220">
+  <img src="Screenshot/Sign%20In%20.png" width="220">
+  <img src="Screenshot/Register.png" width="220">
 </p>
 
 <p align="center">
@@ -34,9 +34,9 @@
 <h3>🏠 Home & Navigation</h3>
 
 <p align="center">
-  <img src="Screenshot/Home%20Screen%20Before%20Sign%20In.png" width="250">
-  <img src="Screenshot/Home%20Screen%20After%20Sign%20In.png" width="250">
-  <img src="Screenshot/Menu.png" width="250">
+  <img src="Screenshot/Home%20Screen%20Before%20Sign%20In.png" width="220">
+  <img src="Screenshot/Home%20Screen%20After%20Sign%20In.png" width="220">
+  <img src="Screenshot/Menu.png" width="220">
 </p>
 
 <p align="center">
@@ -52,9 +52,9 @@
 <h3>🛍 Shopping Experience</h3>
 
 <p align="center">
-  <img src="Screenshot/Product%20Details.png" width="250">
-  <img src="Screenshot/Best%20Seller.png" width="250">
-  <img src="Screenshot/Cart.png" width="250">
+  <img src="Screenshot/Product%20Details.png" width="220">
+  <img src="Screenshot/Best%20Seller.png" width="220">
+  <img src="Screenshot/Cart.png" width="220">
 </p>
 
 <p align="center">
@@ -66,7 +66,7 @@
 </p>
 
 <p align="center">
-  <img src="Screenshot/Checkout.png" width="250">
+  <img src="Screenshot/Checkout.png" width="220">
 </p>
 
 <p align="center">
@@ -78,8 +78,8 @@
 <h3>👤 User Account & Reviews</h3>
 
 <p align="center">
-  <img src="Screenshot/Profile.png" width="250">
-  <img src="Screenshot/Rate.png" width="250">
+  <img src="Screenshot/Profile.png" width="220">
+  <img src="Screenshot/Rate.png" width="220">
 </p>
 
 <p align="center">
