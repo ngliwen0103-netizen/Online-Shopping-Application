@@ -13,20 +13,24 @@
 
 ## 📸 Application Showcase
 
-### 🔐 Authentication
+<h3>🔐 Authentication</h3>
 
-<p align="center">
-  <img src="Screenshot/Splashing%20Screen.png" width="220">
-  <img src="Screenshot/Sign%20In%20.png" width="220">
-  <img src="Screenshot/Register.png" width="220">
-</p>
-
-<p align="center">
-  <b>Splash Screen</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Sign In</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Register</b>
-</p>
-
+<table>
+  <tr>
+    <td align="center">
+      <img src="Screenshot/Splashing%20Screen.png" width="220"><br>
+      <b>Splash Screen</b>
+    </td>
+    <td align="center">
+      <img src="Screenshot/Sign%20In%20.png" width="220"><br>
+      <b>Sign In</b>
+    </td>
+    <td align="center">
+      <img src="Screenshot/Register.png" width="220"><br>
+      <b>Register</b>
+    </td>
+  </tr>
+</table>
 ---
 
 ### 🏠 Home & Navigation
