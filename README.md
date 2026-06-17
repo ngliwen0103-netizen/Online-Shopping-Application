@@ -15,24 +15,17 @@
 
 <h3>🔐 Authentication</h3>
 
-<table border="0">
-<tr>
-<td align="center" border="0">
-<img src="Screenshot/Splashing%20Screen.png" width="220"><br>
-<b>Splash Screen</b>
-</td>
-
-<td align="center" border="0">
-<img src="Screenshot/Sign%20In%20.png" width="220"><br>
-<b>Sign In</b>
-</td>
-
-<td align="center" border="0">
-<img src="Screenshot/Register.png" width="220"><br>
-<b>Register</b>
-</td>
-</tr>
-</table>
+<div align="center">
+  <img src="Screenshot/Splashing%20Screen.png" width="220">
+  <img src="Screenshot/Sign%20In%20.png" width="220">
+  <img src="Screenshot/Register.png" width="220">
+  <br>
+  <sub><b>Splash Screen</b></sub>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <sub><b>Sign In</b></sub>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <sub><b>Register</b></sub>
+</div>
 
 ### 🏠 Home & Navigation
 
