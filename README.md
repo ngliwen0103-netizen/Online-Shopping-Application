@@ -16,15 +16,22 @@
 <h3>🔐 Authentication</h3>
 
 <div align="center">
-  <img src="Screenshot/Splashing%20Screen.png" width="220">
-  <img src="Screenshot/Sign%20In%20.png" width="220">
-  <img src="Screenshot/Register.png" width="220">
-  <br>
-  <sub><b>Splash Screen</b></sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <sub><b>Sign In</b></sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <sub><b>Register</b></sub>
+
+<div style="display:inline-block; text-align:center; margin:10px;">
+<img src="Screenshot/Splashing%20Screen.png" width="250"><br>
+<b>Splash Screen</b>
+</div>
+
+<div style="display:inline-block; text-align:center; margin:10px;">
+<img src="Screenshot/Sign%20In%20.png" width="250"><br>
+<b>Sign In</b>
+</div>
+
+<div style="display:inline-block; text-align:center; margin:10px;">
+<img src="Screenshot/Register.png" width="250"><br>
+<b>Register</b>
+</div>
+
 </div>
 
 ### 🏠 Home & Navigation
