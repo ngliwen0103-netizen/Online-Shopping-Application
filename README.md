@@ -7,7 +7,7 @@
 - Handling shopping cart
 - Order placement & checkout process
 - Ability to review and rate products
-- keep track of purchase history
+- Keep track of purchase history
 - User-friendly and responsive mobile interface
 - Persistence of local data 
 
